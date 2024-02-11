@@ -17,6 +17,19 @@ a.weblogin {
     text-align: center;
 }
 
+a.project {
+    position: absolute;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    font-family: "Droid Sans Mono", SansSerif, monospace !important;
+    font-size: 30px;
+    text-decoration: underline;
+    color: white !important;
+    text-align: center;
+}
+
 p.copyright {
     font-family: "Droid Sans Mono", SansSerif, monospace;
     font-size: 10px;
