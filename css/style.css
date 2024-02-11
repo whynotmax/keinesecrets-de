@@ -8,6 +8,15 @@
     user-select: none;
 }
 
+a.weblogin {
+    position: relative;
+    font-family: "Droid Sans Mono", SansSerif, monospace !important;
+    font-size: 30px;
+    text-decoration: none;
+    color: black !important;
+    text-align: center;
+}
+
 p.copyright {
     font-family: "Droid Sans Mono", SansSerif, monospace;
     font-size: 10px;
