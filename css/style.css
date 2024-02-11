@@ -9,15 +9,10 @@
 }
 
 a.weblogin {
-    position: relative;
-    font-family: "Droid Sans Mono", SansSerif, monospace !important;
-    font-size: 30px;
-    text-decoration: none;
-    color: black !important;
-    text-align: center;
+    bottom: 60px !important;
 }
 
-a.project {
+a.project, a.weblogin {
     position: absolute;
     bottom: 25px;
     left: 50%;
